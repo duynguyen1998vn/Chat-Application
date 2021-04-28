@@ -1,0 +1,2 @@
+﻿-mỗi client sau khi connect sẽ có 1 listview online riêng
+-còn server to client thì listview nằm phía project server

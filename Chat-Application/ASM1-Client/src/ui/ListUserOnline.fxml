@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<FlowPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="373.0" prefWidth="167.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ListOnlineController">
+   <children>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Client to Client" textAlignment="CENTER" />
+      <ListView fx:id="listViewOnline" prefHeight="350" prefWidth="150.0" />
+   </children>
+</FlowPane>
